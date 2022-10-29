@@ -1,6 +1,6 @@
-## Easy-PS5-UserGuide-Host
+# Easy-PS5-UserGuide-Host
 
-# User-friendly PS5 UserGuide Host
+## User-friendly PS5 UserGuide Host
 
 This is a mod from Specter's PS5 UserGuide Host:
 
@@ -14,7 +14,7 @@ Link: https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit
 - Use the user manual and the site is hosted.
 
 
-# Benutzerfreundlicher PS5 UserGuide Host
+## Benutzerfreundlicher PS5 UserGuide Host
 
 Dies ist ein Mod von Specters PS5 UserGuide Host:
 
