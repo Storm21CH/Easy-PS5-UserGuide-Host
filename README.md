@@ -1,5 +1,7 @@
 # Easy-PS5-UserGuide-Host
 
+![Downloads](https://img.shields.io/github/downloads/Storm21CH/Easy-PS5-UserGuide-Host/total)
+
 ## User-friendly PS5 UserGuide Host
 
 This is a mod from Specter's PS5 UserGuide Host:
